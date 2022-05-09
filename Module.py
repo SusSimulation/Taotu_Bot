@@ -10,11 +10,7 @@ CODEFOREVENT = 26126
 
 #Lists
 DEVELOPERS, DEVELOPER_COMMANDS = [
-        800558571129274450, #Jasper
-        879210381661335592, #Arlo
-        624409739412897802, # Reilly
-        966347479996051546, #Finn
-        839323330297331743
+        #gfdhgdfnhgfgfh
     ], [
         "!files"
         
@@ -61,8 +57,7 @@ typefiles = ["png",
 
 
 CoolGuilds = [
-    962735393344729118,
-    973041944911573013
+    #gdfhgfghfgxdth
     ]
 
 
